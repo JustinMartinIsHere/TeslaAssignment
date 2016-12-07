@@ -1,0 +1,47 @@
+body{background-color:#040405;margin:0;}
+.background ul{
+  list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+.background{
+  background: url('modelx.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  text-align: center;
+  }
+.logo{
+  max-width: 100%;
+  height: auto;
+  margin-top:30vh;
+}
+hr{width:150vh;}
+.subTitle{
+  color:white;
+  font-size:60px;
+  z-index: -1;
+  padding-top:-10vh;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+}
+a{color:white;font-family: 'Roboto', sans-serif;font-weight: 100;}
+a:hover{text-decoration: none;color:red;}
+a:active{color:white;}
+footer {
+  padding: 50px 0;
+  clear: both;
+  position: relative;
+  z-index: 10;
+  height: 3em;
+  margin-top: -3em;
+}
+.mainFooter{
+  float:right;
+  text-align: right;
+}
