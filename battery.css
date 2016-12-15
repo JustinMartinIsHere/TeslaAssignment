@@ -1,0 +1,81 @@
+body{background-color: #7f8c8d;}
+#batteryImg1{
+  background: url('tesla-model-x-battery1.jpg');
+  height:100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.batteryHeader{
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 800;
+  color:white;
+  font-size:120px;
+}
+.batteryHeader2{
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 800;
+  color:white;
+  font-size:100px;
+  padding: 7vh;
+}
+.batteryText{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 200;
+  font-size: 25px;
+  color:white;
+}
+#batteryContent1{
+  height:21vh;
+  width:85%;
+  justify-content: center;
+  margin-left: auto ;
+  margin-right: auto ;
+}
+#batteryContent2{
+  height: 21vh;
+  width:85%;
+  justify-content: center !important;
+  margin-left: auto ;
+  margin-right: auto ;
+
+}
+#batteryImg2{
+  background: url('tesla-model-x-battery2.jpg');
+  height:100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+#batteryContent3{
+  height: 21vh;
+  width:85%;
+  justify-content: center !important;
+  margin-left: auto ;
+  margin-right: auto ;
+
+}
+#batteryImg3{
+  background: url('tesla-model-x-battery3.jpg');
+  height:100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+#batteryContent4{
+  height: 21vh;
+  width:85%;
+  justify-content: center !important;
+  margin-left: auto ;
+  margin-right: auto ;
+
+}
+#batteryImg4{
+  background: url('tesla-model-x-battery4.png');
+  height:100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}

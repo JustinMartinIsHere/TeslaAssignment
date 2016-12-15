@@ -1,4 +1,4 @@
-body{background-color:#040405;margin:0;}
+body{margin:0;}
 .background ul{
   list-style-type: none;
     margin: 0;
@@ -44,4 +44,28 @@ footer {
 .mainFooter{
   float:right;
   text-align: right;
+}
+.navBar{
+  margin-left: auto;
+  margin-right: auto;
+}
+.navBtn {
+  display: inline-block;
+  font-family: 'Roboto', sans-serif;
+  margin-top:3vh;
+  margin-left:1vh;
+  margin-right:1vh;
+  width: 150px;
+  height: auto;
+  padding: 10px;
+  color: #fff;
+  border: 1px solid #fff;
+  text-align: center;
+  outline: none;
+  text-decoration: none;
+}
+.navBtn:hover,
+.navBtn:active {
+  background-color: #fff;
+  color: #000;
 }

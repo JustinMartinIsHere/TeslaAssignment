@@ -1,0 +1,81 @@
+body{background-color: #7f8c8d;}
+#tcImg1{
+  background: url('tesla-model-x-tc.jpg');
+  height:100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.tcHeader{
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 800;
+  color:white;
+  font-size:120px;
+}
+.tcHeader2{
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 800;
+  color:white;
+  font-size:100px;
+  padding: 7vh;
+}
+.tcText{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 200;
+  font-size: 25px;
+  color:white;
+}
+#tcContent1{
+  height:21vh;
+  width:85%;
+  justify-content: center;
+  margin-left: auto ;
+  margin-right: auto ;
+}
+#tcContent2{
+  height: 21vh;
+  width:85%;
+  justify-content: center !important;
+  margin-left: auto ;
+  margin-right: auto ;
+
+}
+#tcImg2{
+  background: url('tesla-model-x-tc2.jpg');
+  height:100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+#tcContent3{
+  height: 21vh;
+  width:85%;
+  justify-content: center !important;
+  margin-left: auto ;
+  margin-right: auto ;
+
+}
+#tcImg3{
+  background: url('tesla-model-x-tc3.jpg');
+  height:100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+#tcContent4{
+  height: 21vh;
+  width:85%;
+  justify-content: center !important;
+  margin-left: auto ;
+  margin-right: auto ;
+
+}
+#tcImg4{
+  background: url('tesla-model-x-tc4.png');
+  height:100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
