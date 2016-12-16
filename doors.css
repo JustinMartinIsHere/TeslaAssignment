@@ -28,14 +28,14 @@ body{background-color: #7f8c8d;}
   color:white;
 }
 #doorsContent1{
-  height:21vh;
+  height:6vh;
   width:85%;
   justify-content: center;
   margin-left: auto ;
   margin-right: auto ;
 }
 #doorsContent2{
-  height: 21vh;
+  height: 18vh;
   width:85%;
   justify-content: center !important;
   margin-left: auto ;
@@ -50,7 +50,7 @@ body{background-color: #7f8c8d;}
   background-attachment: fixed;
 }
 #doorsContent3{
-  height: 21vh;
+  height: 9vh;
   width:85%;
   justify-content: center !important;
   margin-left: auto ;
@@ -65,7 +65,7 @@ body{background-color: #7f8c8d;}
   background-attachment: fixed;
 }
 #doorsContent4{
-  height: 21vh;
+  height: 0vh;
   width:85%;
   justify-content: center !important;
   margin-left: auto ;
